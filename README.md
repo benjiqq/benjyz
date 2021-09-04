@@ -10,6 +10,3 @@ Previously built my own blockchain https://github.com/polygonledger/node/
 
 AMM, Defi, Blockchain development, Crytpo funding, ...
 
-##How to reach me
-
-benjyz#7236 on discord
