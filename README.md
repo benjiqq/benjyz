@@ -4,7 +4,7 @@ In Crypto since 2013, particiapted in many DAOs, developing algorithmic stableco
 
 Can help with tech advisory and implementation in DeFi.
 
-Built my own blockchain from scratch https://github.com/d1-finance/node
+Building my own blockchain from scratch [horizonledgerhttps://horizonledger.org/](https://horizonledger.org/)
 
 ## Collaboration
 
